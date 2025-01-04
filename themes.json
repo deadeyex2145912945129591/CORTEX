@@ -1,1 +1,10 @@
-{"title":"Ocean Theme","id":1,"description":"Ocean and Wave inspired","status":"Trending","opacity":0.2,"imageURL":"https://example.com/ocean-theme.png"}
+[
+  {
+    "title": "Exemplo",
+    "id": 1,
+    "description": "Tema de exemplo",
+    "status": "Trendy",
+    "opacity": 0.5,
+    "imageURL": "https://exemplo.com/imagem.jpg"
+  }
+]
