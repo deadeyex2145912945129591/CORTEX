@@ -6,7 +6,7 @@
       "description": "Theme inspired by Naruto Uzumaki, the ninja aiming to become Hokage.",
       "status": "Hot",
       "opacity": 0.8,
-      "imageURL": "https://tse2.mm.bing.net/th?id=OIP.R-U4iK6Esf20yg7AEpACpQHaEK&pid=Api"
+      "imageURL": "[https://tse2.mm.bing.net/th?id=OIP.R-U4iK6Esf20yg7AEpACpQHaEK&pid=Api](https://pt.quizur.com/_image?href=https://img.quizur.com/f/img6075d1391743a3.23006794.jpg?lastEdited=1618334013&w=600&h=600&f=webp)"
     },
     {
       "title": "Monkey D. Luffy",
@@ -14,7 +14,7 @@
       "description": "Theme featuring the captain of the Straw Hat Pirates from 'One Piece'.",
       "status": "Hot",
       "opacity": 0.85,
-      "imageURL": "https://tse2.mm.bing.net/th?id=OIP.v-wqJKz2SZWvuBgDsYl6VgHaNK&pid=Api"
+      "imageURL": "https://mir-s3-cdn-cf.behance.net/projects/404/0058ec185728965.Y3JvcCw0ODAwLDM3NTQsMCwxMTE2.jpg"
     },
     {
       "title": "Goku Super Saiyan",
@@ -30,7 +30,7 @@
       "description": "Theme featuring Saitama from 'One Punch Man', the hero who defeats enemies with one punch.",
       "status": "Hot",
       "opacity": 0.75,
-      "imageURL": "https://tse2.mm.bing.net/th?id=OIP.iOmjt8dpQBWm7HAccdwKUQHaGo&pid=Api"
+      "imageURL": "[https://tse2.mm.bing.net/th?id=OIP.iOmjt8dpQBWm7HAccdwKUQHaGo&pid=Api](https://i.ytimg.com/vi/JiEqPyMboKg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB4yQjzqoerHRJHP-tkgRdZ676pHQ)"
     },
     {
       "title": "Tanjiro Kamado",
