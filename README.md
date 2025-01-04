@@ -94,7 +94,7 @@
       "description": "Theme inspired by the thrilling 'Squid Game' series.",
       "status": "Dark",
       "opacity": 0.7,
-      "imageURL": "https://tse3.mm.bing.net/th?id=OIF.6BC2l3UZjJLQiWwzhn%2fx3A&pid=Api"
+      "imageURL": "https://img.ibxk.com.br/2024/12/16/16172522449190.jpg?ims=328x"
     },
     {
       "title": "SpongeBob SquarePants",
