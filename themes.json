@@ -8,9 +8,9 @@
     "imageURL": "https://exemplo.com/imagem.jpg"
   },
   {
-    "title": "nb",
-    "description": "bb",
-    "status": "bb",
+    "title": "Test",
+    "description": "theme",
+    "status": "test",
     "opacity": "1",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/pt/b/bf/SpongeBob_SquarePants_personagem.png"
   }
