@@ -6,5 +6,12 @@
     "status": "Trendy",
     "opacity": 0.5,
     "imageURL": "https://exemplo.com/imagem.jpg"
+  },
+  {
+    "title": "nb",
+    "description": "bb",
+    "status": "bb",
+    "opacity": "1",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/pt/b/bf/SpongeBob_SquarePants_personagem.png"
   }
 ]
