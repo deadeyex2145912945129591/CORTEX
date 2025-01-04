@@ -232,6 +232,13 @@
       "opacity": 0.8,
       "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1078475677566771312/527258.png"
     },
-    
+     {
+      "title": "Idk",
+      "id": 29,
+      "description": "idk what is it lol",
+      "status": "Dark",
+      "opacity": 0.8,
+      "imageURL": "https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif"
+    },
   ]
 } 
