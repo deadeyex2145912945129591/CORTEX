@@ -1,20 +1,20 @@
 {
   "themes": [
     {
-      "title": "Ocean Theme",
+      "title": "Scorpion",
       "id": 1,
-      "description": "Ocean and Wave inspired",
+      "description": "Scorpion MK",
       "status": "Trending",
       "opacity": 0.2,
-      "imageURL": "https://images.pling.com/img/00/00/52/38/08/1331435/017566664036869b3f2d81312085887eac4c.jpg"
+      "imageURL": "https://images7.alphacoders.com/516/thumb-1920-516677.jpg"
     },
     {
       "title": "Skyline",
       "id": 2,
-      "description": "Skyscrapers all around",
+      "description": "Car",
       "status": "Trending",
       "opacity": 0.3,
-      "imageURL": "https://arzotravels.com/wp-content/uploads/2017/04/shutterstock_130734605.jpg"
+      "imageURL": "https://blog.olhonocarro.com.br/wp-content/uploads/2024/07/nissan-skyline-gt-r-1992-traseira-1620x1080.jpg"
     },
     {
       "title": "Cortex Logo",
@@ -25,20 +25,20 @@
       "imageURL": "https://media.discordapp.net/attachments/1323348107689328743/1324434970768445461/d394449641c9c6c82ee3a299dae3865d-removebg-preview.png?ex=677823af&is=6776d22f&hm=b0568bca0f7cdc1569fcc00449f27faeb02fed171922c10717214fe406f6db55&=&format=webp&quality=lossless"
     },
     {
-      "title": "Mountains",
+      "title": "Pokemon",
       "id": 4,
-      "description": "Cool vectorized mountains",
+      "description": "Anime",
       "status": "Hot",
       "opacity": 0.8,
-      "imageURL": "https://img.freepik.com/vektoren-kostenlos/nachtmeerlandschaft-vollmond-und-sterne-leuchten_107791-7397.jpg?w=1380&t=st=1660336998~exp=1660337598~hmac=70c8e25b25bb0708da94ae743b76947c540fe969b9a9e97e65e5c9cfe1a79953"
+      "imageURL": "https://wallpapers.com/images/hd/totodile-looking-at-friends-in-creek-lu1576wfu8mk6d0k.jpg"
     },
     {
-      "title": "Wendo Theme",
+      "title": "Dragon ball",
       "id": 5,
-      "description": "fish",
-      "status": "Meme",
+      "description": "Anime",
+      "status": "Anime",
       "opacity": 0.35,
-      "imageURL": "https://i.kym-cdn.com/entries/icons/original/000/031/847/Korean_street_food_-_Puffer_fish__blowfish_eat_carrot!_toxic_cleaning_1-16_screenshot.png"
+      "imageURL": "https://tm.ibxk.com.br/2024/03/14/14101432591036.jpg?ims=750x"
     },
     {
       "title": "JJsploit theme",
