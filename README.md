@@ -1,228 +1,237 @@
 {
   "themes": [
     {
-      "title": "Dragon",
+      "title": "Ocean Theme",
       "id": 1,
-      "description": "Dragon.",
+      "description": "Ocean and Wave inspired",
       "status": "Trending",
       "opacity": 0.2,
-      "imageURL": "https://img.freepik.com/free-photo/mythical-dragon-beast-anime-style_23-2151112832.jpg?semt=ais_hybrid"
+      "imageURL": "https://images.pling.com/img/00/00/52/38/08/1331435/017566664036869b3f2d81312085887eac4c.jpg"
     },
     {
-      "title": "Sasuke",
+      "title": "Skyline",
       "id": 2,
-      "description": "Naruto anime.",
+      "description": "Skyscrapers all around",
       "status": "Trending",
       "opacity": 0.3,
-      "imageURL": "https://pm1.aminoapps.com/6427/d12e746e7fa3e6de0ca696b008b62bcdf9a73c2c_hq.jpg"
+      "imageURL": "https://arzotravels.com/wp-content/uploads/2017/04/shutterstock_130734605.jpg"
     },
     {
-      "title": "Idk",
+      "title": "Cortex Logo",
       "id": 3,
-      "description": "Anime.",
-      "status": "Mixed",
-      "opacity": 0.4,
-      "imageURL": "https://img.freepik.com/fotos-gratis/bela-cena-de-desenho-animado-de-paisagem-de-anime_23-2151035237.jpg"
-    },
-    {
-      "title": "Pokemon",
-      "id": 4,
-      "description": "Ash and charizard.",
+      "description": "Logo",
       "status": "Hot",
-      "opacity": 0.8,
-      "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGpNtq9tU4a0g7-I1tuPFelT468hykuYksP2DjzfeXcTygvZCTRdASP-f4bfB_tfBW8KLF11C1QH3HOO-lku7YjJa5Qh6Y7CcWWWrjf6RFRGavCzC74iem2sFvKt9Ix2XlWRPEkqpYCfc/s640/BVkaL0ZCEAAkbJq.jpg"
-    },
-    {
-      "title": "Lofi",
-      "id": 5,
-      "description": "Lofi background.",
-      "status": "Meme",
-      "opacity": 0.35,
-      "imageURL": "[https://images.unsplash.com/photo-1544970912-14d381f2b13f](https://preview.redd.it/eqo94q0udqyy.jpg?width=640&crop=smart&auto=webp&s=93d63c1fbdd18f6cd60a9ae33e968e8d2980391f)"
-    },
-    {
-      "title": "Windows 11",
-      "id": 6,
-      "description": "W11.",
-      "status": "Meme",
-      "opacity": 0.45,
-      "imageURL": "[https://images.unsplash.com/photo-1530144840135-c017a5449bb5](https://preview.redd.it/seg1ktrxul471.png?width=640&crop=smart&auto=webp&s=08b5e84a7b891f8c01281fbe7a522c847ddab2b3)"
+      "opacity": 0.4,
+      "imageURL": "https://media.discordapp.net/attachments/1323348107689328743/1324434970768445461/d394449641c9c6c82ee3a299dae3865d-removebg-preview.png?ex=677823af&is=6776d22f&hm=b0568bca0f7cdc1569fcc00449f27faeb02fed171922c10717214fe406f6db55&=&format=webp&quality=lossless"
     },
     {
       "title": "Mountains",
+      "id": 4,
+      "description": "Cool vectorized mountains",
+      "status": "Hot",
+      "opacity": 0.8,
+      "imageURL": "https://img.freepik.com/vektoren-kostenlos/nachtmeerlandschaft-vollmond-und-sterne-leuchten_107791-7397.jpg?w=1380&t=st=1660336998~exp=1660337598~hmac=70c8e25b25bb0708da94ae743b76947c540fe969b9a9e97e65e5c9cfe1a79953"
+    },
+    {
+      "title": "Wendo Theme",
+      "id": 5,
+      "description": "fish",
+      "status": "Meme",
+      "opacity": 0.35,
+      "imageURL": "https://i.kym-cdn.com/entries/icons/original/000/031/847/Korean_street_food_-_Puffer_fish__blowfish_eat_carrot!_toxic_cleaning_1-16_screenshot.png"
+    },
+    {
+      "title": "JJsploit theme",
+      "id": 6,
+      "description": "Ever wanted the WRD feeling back on delta?",
+      "status": "Meme",
+      "opacity": 0.45,
+      "imageURL": "https://cdn.wearedevs.net/images/pages/jjsploit/JJSploit%20v6%20Buttons%20Page.png"
+    },
+    {
+      "title": "Waterfall",
       "id": 7,
-      "description": "Mountains view.",
+      "description": "View The WaterFall",
       "status": "Hot",
       "opacity": 0.4,
-      "imageURL": "[https://images.unsplash.com/photo-1598890303931-5bb6eb52fe48](https://preview.redd.it/z0bug4fwyhc51.png?width=1080&crop=smart&auto=webp&s=07be7cff138a8c0ed5260503be068c748235856f)"
+      "imageURL": "https://images.pexels.com/photos/2387873/pexels-photo-2387873.jpeg?cs=srgb&dl=pexels-sam-kolder-2387873.jpg&fm=jpg"
     },
     {
-      "title": "Just rick",
+      "title": "Galaxy",
       "id": 8,
-      "description": "Rick.",
+      "description": "The Galaxy",
       "status": "Dark",
       "opacity": 0.4,
-      "imageURL": "[https://images.unsplash.com/photo-1568063481-c24e9232f0fe](https://wallpapers.com/images/hd/bored-rick-and-morty-pc-4k-46llc8ptsuf06zld.jpg)"
+      "imageURL": "https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
-      "title": "Juice World",
+      "title": "Lightning",
       "id": 9,
-      "description": "Juice World.",
+      "description": "Lightning Strikes",
       "status": "Dark",
       "opacity": 0.4,
-      "imageURL": "[https://images.unsplash.com/photo-1571096763264-97efce8adff9](https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2020/07/14/juice-wrld-umg.jpg)"
+      "imageURL": "https://images.pexels.com/photos/1114690/pexels-photo-1114690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
     },
     {
-      "title": "Dragon ball z",
+      "title": "Amogus",
       "id": 10,
-      "description": "Dragon ball z.",
-      "status": "Anime",
+      "description": "i was forced to add this",
+      "status": "Meme",
       "opacity": 0.5,
-      "imageURL": "[https://images.unsplash.com/photo-1497479881783-22538ff5db79](https://angelotti.wordpress.com/wp-content/uploads/2015/07/wsdwedwef.jpg)"
+      "imageURL": "https://cdn.discordapp.com/attachments/913411464902107138/1008094540332273746/sussyshit.jpg"
     },
     {
-      "title": "Scorpion",
+      "title": "littlekiller moment",
       "id": 11,
-      "description": "Scorpion MK.",
-      "status": "Game",
+      "description": "deez nuts",
+      "status": "Meme",
       "opacity": 0.5,
-      "imageURL": "[https://images.unsplash.com/photo-1569180421-d4ac37895b85](https://images7.alphacoders.com/516/thumb-1920-516677.jpg)"
+      "imageURL": "https://cdn.discordapp.com/attachments/913411464902107138/1008095336801255575/unknown.png"
     },
     {
-      "title": "Space",
+      "title": "Animated Joke",
       "id": 12,
-      "description": "Space.",
+      "description": "Submitted by giveaway winner",
       "status": "Light",
       "opacity": 0.4,
-      "imageURL": "https://images.newscientist.com/wp-content/uploads/2024/06/27123853/SEI_2104945131.jpg?crop=16:9,smart&width=1200&height=675&upscale=true"
+      "imageURL": "https://cdn.discordapp.com/attachments/1008431839955918950/1008433695683792966/E_IXW1wWUAEGHP4.jpg_small.jpg"
     },
     {
-      "title": "Cyberpunk Universe",
+      "title": "Aincrad online sao",
       "id": 13,
-      "description": "A futuristic cyberpunk world in neon lights.",
+      "description": "Submitted by giveaway winner",
       "status": "Mixed",
       "opacity": 0.6,
-      "imageURL": "https://images.unsplash.com/photo-1592850210304-0794c79bb7e7"
+      "imageURL": "https://cdn.discordapp.com/attachments/967417560645640242/1008436103365263480/IMG_0499.webp"
     },
     {
-      "title": "Ocean Voyage",
+      "title": "Blue liquid",
       "id": 14,
-      "description": "A pirate ship sailing through the open sea.",
+      "description": "Blue dipping lmao",
       "status": "Hot",
       "opacity": 0.3,
-      "imageURL": "https://images.unsplash.com/photo-1506702682711-e17b6f20c3ae"
+      "imageURL": "https://cdn.discordapp.com/attachments/1000376890659438602/1008479553800384593/untitled.png"
     },
-    {
-      "title": "Epic Battle",
+        {
+      "title": "MLG - Major Gaming League",
       "id": 15,
-      "description": "Clash between two ancient forces.",
+      "description": "memes from the mid-2010s",
       "status": "Light",
       "opacity": 0.2,
-      "imageURL": "https://images.unsplash.com/photo-1587620843896-d3c3b5c0c2a9"
+      "imageURL": "https://media-management-service.s3.amazonaws.com/media/images/1a437a450812ecdb0c113e853c9b7b84_longread_large.original.png"
     },
     {
-      "title": "Warden Encounter",
+      "title": "Warden that is stuck",
       "id": 16,
-      "description": "A chilling scene with the Minecraft warden.",
+      "description": "Minecraft Warden thats stuck",
       "status": "Dark",
       "opacity": 0.6,
-      "imageURL": "https://images.unsplash.com/photo-1560192662-13c098ef02f4"
+      "imageURL": "https://cdn.discordapp.com/attachments/1041088447949062185/1041787355222261870/Screenshot_2022-11-13_201500.png"
     },
     {
-      "title": "Twilight Horizon",
+      "title": "Purple Sunset",
       "id": 17,
-      "description": "The sun sets over a peaceful landscape.",
+      "description": "Purple sunset with a mountain",
       "status": "Dark",
       "opacity": 0.65,
-      "imageURL": "https://images.unsplash.com/photo-1531186543207-283c0a420da9"
+      "imageURL": "https://images4.alphacoders.com/109/1093655.jpg"
     },
     {
-      "title": "Midnight Cafe",
+      "title": "Night Coffee Shop",
       "id": 18,
-      "description": "A quiet, cozy cafe in the middle of the night.",
+      "description": "A coffee shop at late night",
       "status": "Dark",
       "opacity": 0.55,
-      "imageURL": "https://images.unsplash.com/photo-1571771125850-93ab95a7ccdf"
+      "imageURL": "https://preview.redd.it/8vz2k55k8mg81.jpg?auto=webp&s=7d047e67bb4f791810072e1e2547312f8eccf2aa"
     },
     {
-      "title": "Lunar Eclipse",
+      "title": " Cat",
       "id": 19,
-      "description": "A total lunar eclipse over a mountain range.",
+      "description": "Just a cat!",
       "status": "Cat",
       "opacity": 0.2,
-      "imageURL": "https://images.unsplash.com/photo-1571316111142-b8a70fd82462"
+      "imageURL": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_grumpy.jpg?quality=70&strip=info&w=960"
     },
     {
-      "title": "Pirate Journey",
+      "title": "One Piece",
       "id": 20,
-      "description": "A pirate ship navigating through stormy waters.",
+      "description": "One piece boat in the ocea!",
       "status": "Mixed",
       "opacity": 0.6,
-      "imageURL": "https://images.unsplash.com/photo-1590517039510-cbd1f50b022f"
+      "imageURL": "https://www.wallpaperup.com/uploads/wallpapers/2016/10/08/1023963/f127dc9be0ee3af102da77efe65b09ce-1000.jpg"
     },
     {
-      "title": "Kakashi's Training",
+      "title": "Kurama Vs Susanoo",
       "id": 21,
-      "description": "Kakashi Hatake in a training scene.",
+      "description": "Picture from the Naurto series",
+      "status": "Mixed",
+      "opacity": 0.5,
+      "imageURL": "https://images6.alphacoders.com/605/605598.jpg"
+    },
+    {
+      "title": "Sasuke Mangekyou",
+      "id": 22,
+      "description": "Sasuke with a mangekyou sharingan",
       "status": "Dark",
       "opacity": 1,
-      "imageURL": "https://images.unsplash.com/photo-1567390054-2b3f9ab8fe79"
+      "imageURL": "https://images3.alphacoders.com/820/82029.jpg"
     },
     {
-      "title": "Shadow Warrior",
-      "id": 22,
-      "description": "A lone warrior in a mysterious dark realm.",
+      "title": "Kakashi",
+      "id": 23,
+      "description": "Kakashi using chidori",
       "status": "Light",
       "opacity": 0.5,
-      "imageURL": "https://images.unsplash.com/photo-1530513889196-0b1be4e2e9f1"
+      "imageURL": "https://images4.alphacoders.com/106/106924.jpg"
     },
     {
-      "title": "Night Sky",
-      "id": 23,
-      "description": "A starry night sky filled with constellations.",
-      "status": "Dark",
-      "opacity": 0.5,
-      "imageURL": "https://images.unsplash.com/photo-1530198493107-fc7e0e2ec763"
-    },
-    {
-      "title": "Mystical Forest",
+      "title": "Black",
       "id": 24,
-      "description": "A dense forest with mist creeping through.",
+      "description": "Make delta look more black",
       "status": "Dark",
       "opacity": 0.5,
-      "imageURL": "https://images.unsplash.com/photo-1518465101804-02a1ed6788c0"
+      "imageURL": "https://media.discordapp.net/attachments/1041796845820706836/1061012646687670322/image.png"
     },
     {
-      "title": "Eclipse",
+      "title": "Featherine",
       "id": 25,
-      "description": "A total eclipse with a haunting sky.",
+      "description": "Submitted by giveaway winner",
       "status": "Mixed",
       "opacity": 0.5,
-      "imageURL": "https://images.unsplash.com/photo-1570514904400-92c5c5f28d91"
+      "imageURL": "https://cdn.discordapp.com/attachments/1043728067182481459/1047887881236119582/unknown.png"
     },
     {
-      "title": "Dragon Realm",
+      "title": "Super Son Goku",
       "id": 26,
-      "description": "A dragon in a mystical realm of fire and ice.",
+      "description": "Son Goku From Dragonball",
       "status": "Dark",
       "opacity": 0.8,
-      "imageURL": "https://images.unsplash.com/photo-1524745981805-6f6b07184c34"
+      "imageURL": "https://assets.puzzlefactory.pl/puzzle/399/221/original.webp"
     },
     {
-      "title": "Demon Slayer",
-      "id": 27,
-      "description": "A dramatic scene from the anime Demon Slayer.",
+      "title": "Tanjiro Purple/Pink",
+      "id": 26,
+      "description": "A Pink & Purple Demon Slayer Theme",
       "status": "Mixed",
       "opacity": 0.7,
-      "imageURL": "https://images.unsplash.com/photo-1609713601685-4c924d3213a6"
+      "imageURL": "https://img2.wallspic.com/previews/4/7/7/4/6/164774/164774-tanjiro_kamado-demon_slayer_kimetsu_no_yaiba-anime-purple-art-x750.jpg"
     },
-    {
-      "title": "Mystic Realm",
-      "id": 28,
-      "description": "An enchanted world of magic and mystery.",
+   {
+      "title": "One piece",
+      "id": 27,
+      "description": "One piece theme",
       "status": "Dark",
       "opacity": 0.8,
-      "imageURL": "https://images.unsplash.com/photo-1593279290159-54040215daff"
-    }
+      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1078561138469503016/1275020.png"
+    },
+     {
+      "title": "Idk",
+      "id": 28,
+      "description": "idk what is it lol",
+      "status": "Dark",
+      "opacity": 0.8,
+      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1078475677566771312/527258.png"
+    },
+    
   ]
 }
