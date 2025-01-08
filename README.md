@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0b0f37c6-7c55-485c-af78-93b9cacc6e26){
+{
   "themes": [
     {
       "title": "Dragon",
