@@ -1,4 +1,4 @@
-{
+![image](https://github.com/user-attachments/assets/0b0f37c6-7c55-485c-af78-93b9cacc6e26){
   "themes": [
     {
       "title": "Dragon",
@@ -33,68 +33,68 @@
       "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGpNtq9tU4a0g7-I1tuPFelT468hykuYksP2DjzfeXcTygvZCTRdASP-f4bfB_tfBW8KLF11C1QH3HOO-lku7YjJa5Qh6Y7CcWWWrjf6RFRGavCzC74iem2sFvKt9Ix2XlWRPEkqpYCfc/s640/BVkaL0ZCEAAkbJq.jpg"
     },
     {
-      "title": "Fish in the Sea",
+      "title": "Lofi",
       "id": 5,
-      "description": "Submerged world of colorful fish.",
+      "description": "Lofi background.",
       "status": "Meme",
       "opacity": 0.35,
-      "imageURL": "https://images.unsplash.com/photo-1544970912-14d381f2b13f"
+      "imageURL": "[https://images.unsplash.com/photo-1544970912-14d381f2b13f](https://preview.redd.it/eqo94q0udqyy.jpg?width=640&crop=smart&auto=webp&s=93d63c1fbdd18f6cd60a9ae33e968e8d2980391f)"
     },
     {
-      "title": "Neon City Lights",
+      "title": "Windows 11",
       "id": 6,
-      "description": "Neon lights of a futuristic cityscape.",
+      "description": "W11.",
       "status": "Meme",
       "opacity": 0.45,
-      "imageURL": "https://images.unsplash.com/photo-1530144840135-c017a5449bb5"
+      "imageURL": "[https://images.unsplash.com/photo-1530144840135-c017a5449bb5](https://preview.redd.it/seg1ktrxul471.png?width=640&crop=smart&auto=webp&s=08b5e84a7b891f8c01281fbe7a522c847ddab2b3)"
     },
     {
-      "title": "Tropical Waterfall",
+      "title": "Mountains",
       "id": 7,
-      "description": "A lush tropical waterfall surrounded by nature.",
+      "description": "Mountains view.",
       "status": "Hot",
       "opacity": 0.4,
-      "imageURL": "https://images.unsplash.com/photo-1598890303931-5bb6eb52fe48"
+      "imageURL": "[https://images.unsplash.com/photo-1598890303931-5bb6eb52fe48](https://preview.redd.it/z0bug4fwyhc51.png?width=1080&crop=smart&auto=webp&s=07be7cff138a8c0ed5260503be068c748235856f)"
     },
     {
-      "title": "Galactic Horizon",
+      "title": "Just rick",
       "id": 8,
-      "description": "The beauty of galaxies and cosmic landscapes.",
+      "description": "Rick.",
       "status": "Dark",
       "opacity": 0.4,
-      "imageURL": "https://images.unsplash.com/photo-1568063481-c24e9232f0fe"
+      "imageURL": "[https://images.unsplash.com/photo-1568063481-c24e9232f0fe](https://wallpapers.com/images/hd/bored-rick-and-morty-pc-4k-46llc8ptsuf06zld.jpg)"
     },
     {
-      "title": "Thunderstorm",
+      "title": "Juice World",
       "id": 9,
-      "description": "Lightning illuminating the stormy sky.",
+      "description": "Juice World.",
       "status": "Dark",
       "opacity": 0.4,
-      "imageURL": "https://images.unsplash.com/photo-1571096763264-97efce8adff9"
+      "imageURL": "[https://images.unsplash.com/photo-1571096763264-97efce8adff9](https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2020/07/14/juice-wrld-umg.jpg)"
     },
     {
-      "title": "Among the Stars",
+      "title": "Dragon ball z",
       "id": 10,
-      "description": "Space theme with stars and nebulae.",
-      "status": "Meme",
+      "description": "Dragon ball z.",
+      "status": "Anime",
       "opacity": 0.5,
-      "imageURL": "https://images.unsplash.com/photo-1497479881783-22538ff5db79"
+      "imageURL": "[https://images.unsplash.com/photo-1497479881783-22538ff5db79](https://angelotti.wordpress.com/wp-content/uploads/2015/07/wsdwedwef.jpg)"
     },
     {
-      "title": "Autumn Breeze",
+      "title": "Scorpion",
       "id": 11,
-      "description": "Golden leaves swirling in autumn winds.",
-      "status": "Meme",
+      "description": "Scorpion MK.",
+      "status": "Game",
       "opacity": 0.5,
-      "imageURL": "https://images.unsplash.com/photo-1569180421-d4ac37895b85"
+      "imageURL": "[https://images.unsplash.com/photo-1569180421-d4ac37895b85](https://images7.alphacoders.com/516/thumb-1920-516677.jpg)"
     },
     {
-      "title": "Animated Humor",
+      "title": "Space",
       "id": 12,
-      "description": "A playful animated design for humor.",
+      "description": "Space.",
       "status": "Light",
       "opacity": 0.4,
-      "imageURL": "https://images.unsplash.com/photo-1617120341261-49d7a4c6229b"
+      "imageURL": "https://images.newscientist.com/wp-content/uploads/2024/06/27123853/SEI_2104945131.jpg?crop=16:9,smart&width=1200&height=675&upscale=true"
     },
     {
       "title": "Cyberpunk Universe",
