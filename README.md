@@ -1,237 +1,228 @@
 {
   "themes": [
     {
-      "title": "Ocean Theme",
+      "title": "Ocean Breeze",
       "id": 1,
-      "description": "Ocean and Wave inspired",
+      "description": "Relaxing ocean breeze with soft waves.",
       "status": "Trending",
       "opacity": 0.2,
-      "imageURL": "https://images.pling.com/img/00/00/52/38/08/1331435/017566664036869b3f2d81312085887eac4c.jpg"
+      "imageURL": "https://images.unsplash.com/photo-1545316126-e66de313b8a4"
     },
     {
-      "title": "Skyline",
+      "title": "City Skyline",
       "id": 2,
-      "description": "Skyscrapers all around",
+      "description": "A modern city skyline at sunset.",
       "status": "Trending",
       "opacity": 0.3,
-      "imageURL": "https://arzotravels.com/wp-content/uploads/2017/04/shutterstock_130734605.jpg"
+      "imageURL": "https://images.unsplash.com/photo-1545360737-2d4e2c3ab938"
     },
     {
-      "title": "Sakpot Delta Theme",
+      "title": "Cosmic Wave",
       "id": 3,
-      "description": "Hehe Sadly Delta is superior to evon",
-      "status": "Meme",
+      "description": "Interstellar waves and cosmic colors.",
+      "status": "Mixed",
       "opacity": 0.4,
-      "imageURL": "https://i.ytimg.com/vi/QljAIbWCj0s/maxresdefault.jpg"
+      "imageURL": "https://images.unsplash.com/photo-1565676534-bd0db3a5ad9b"
     },
     {
-      "title": "Mountains",
+      "title": "Mountain Majesty",
       "id": 4,
-      "description": "Cool vectorized mountains",
+      "description": "A breathtaking view of mountains and skies.",
       "status": "Hot",
       "opacity": 0.8,
-      "imageURL": "https://img.freepik.com/vektoren-kostenlos/nachtmeerlandschaft-vollmond-und-sterne-leuchten_107791-7397.jpg?w=1380&t=st=1660336998~exp=1660337598~hmac=70c8e25b25bb0708da94ae743b76947c540fe969b9a9e97e65e5c9cfe1a79953"
+      "imageURL": "https://images.unsplash.com/photo-1545171252-02db2e9c191f"
     },
     {
-      "title": "Wendo Theme",
+      "title": "Fish in the Sea",
       "id": 5,
-      "description": "fish",
+      "description": "Submerged world of colorful fish.",
       "status": "Meme",
       "opacity": 0.35,
-      "imageURL": "https://i.kym-cdn.com/entries/icons/original/000/031/847/Korean_street_food_-_Puffer_fish__blowfish_eat_carrot!_toxic_cleaning_1-16_screenshot.png"
+      "imageURL": "https://images.unsplash.com/photo-1544970912-14d381f2b13f"
     },
     {
-      "title": "JJsploit theme",
+      "title": "Neon City Lights",
       "id": 6,
-      "description": "Ever wanted the WRD feeling back on delta?",
+      "description": "Neon lights of a futuristic cityscape.",
       "status": "Meme",
       "opacity": 0.45,
-      "imageURL": "https://cdn.wearedevs.net/images/pages/jjsploit/JJSploit%20v6%20Buttons%20Page.png"
+      "imageURL": "https://images.unsplash.com/photo-1530144840135-c017a5449bb5"
     },
     {
-      "title": "Waterfall",
+      "title": "Tropical Waterfall",
       "id": 7,
-      "description": "View The WaterFall",
+      "description": "A lush tropical waterfall surrounded by nature.",
       "status": "Hot",
       "opacity": 0.4,
-      "imageURL": "https://images.pexels.com/photos/2387873/pexels-photo-2387873.jpeg?cs=srgb&dl=pexels-sam-kolder-2387873.jpg&fm=jpg"
+      "imageURL": "https://images.unsplash.com/photo-1598890303931-5bb6eb52fe48"
     },
     {
-      "title": "Galaxy",
+      "title": "Galactic Horizon",
       "id": 8,
-      "description": "The Galaxy",
+      "description": "The beauty of galaxies and cosmic landscapes.",
       "status": "Dark",
       "opacity": 0.4,
-      "imageURL": "https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      "imageURL": "https://images.unsplash.com/photo-1568063481-c24e9232f0fe"
     },
     {
-      "title": "Lightning",
+      "title": "Thunderstorm",
       "id": 9,
-      "description": "Lightning Strikes",
+      "description": "Lightning illuminating the stormy sky.",
       "status": "Dark",
       "opacity": 0.4,
-      "imageURL": "https://images.pexels.com/photos/1114690/pexels-photo-1114690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      "imageURL": "https://images.unsplash.com/photo-1571096763264-97efce8adff9"
     },
     {
-      "title": "Amogus",
+      "title": "Among the Stars",
       "id": 10,
-      "description": "i was forced to add this",
+      "description": "Space theme with stars and nebulae.",
       "status": "Meme",
       "opacity": 0.5,
-      "imageURL": "https://cdn.discordapp.com/attachments/913411464902107138/1008094540332273746/sussyshit.jpg"
+      "imageURL": "https://images.unsplash.com/photo-1497479881783-22538ff5db79"
     },
     {
-      "title": "littlekiller moment",
+      "title": "Autumn Breeze",
       "id": 11,
-      "description": "deez nuts",
+      "description": "Golden leaves swirling in autumn winds.",
       "status": "Meme",
       "opacity": 0.5,
-      "imageURL": "https://cdn.discordapp.com/attachments/913411464902107138/1008095336801255575/unknown.png"
+      "imageURL": "https://images.unsplash.com/photo-1569180421-d4ac37895b85"
     },
     {
-      "title": "Animated Joke",
+      "title": "Animated Humor",
       "id": 12,
-      "description": "Submitted by giveaway winner",
+      "description": "A playful animated design for humor.",
       "status": "Light",
       "opacity": 0.4,
-      "imageURL": "https://cdn.discordapp.com/attachments/1008431839955918950/1008433695683792966/E_IXW1wWUAEGHP4.jpg_small.jpg"
+      "imageURL": "https://images.unsplash.com/photo-1617120341261-49d7a4c6229b"
     },
     {
-      "title": "Aincrad online sao",
+      "title": "Cyberpunk Universe",
       "id": 13,
-      "description": "Submitted by giveaway winner",
+      "description": "A futuristic cyberpunk world in neon lights.",
       "status": "Mixed",
       "opacity": 0.6,
-      "imageURL": "https://cdn.discordapp.com/attachments/967417560645640242/1008436103365263480/IMG_0499.webp"
+      "imageURL": "https://images.unsplash.com/photo-1592850210304-0794c79bb7e7"
     },
     {
-      "title": "Blue liquid",
+      "title": "Ocean Voyage",
       "id": 14,
-      "description": "Blue dipping lmao",
+      "description": "A pirate ship sailing through the open sea.",
       "status": "Hot",
       "opacity": 0.3,
-      "imageURL": "https://cdn.discordapp.com/attachments/1000376890659438602/1008479553800384593/untitled.png"
+      "imageURL": "https://images.unsplash.com/photo-1506702682711-e17b6f20c3ae"
     },
-        {
-      "title": "MLG - Major Gaming League",
+    {
+      "title": "Epic Battle",
       "id": 15,
-      "description": "memes from the mid-2010s",
+      "description": "Clash between two ancient forces.",
       "status": "Light",
       "opacity": 0.2,
-      "imageURL": "https://media-management-service.s3.amazonaws.com/media/images/1a437a450812ecdb0c113e853c9b7b84_longread_large.original.png"
+      "imageURL": "https://images.unsplash.com/photo-1587620843896-d3c3b5c0c2a9"
     },
     {
-      "title": "Warden that is stuck",
+      "title": "Warden Encounter",
       "id": 16,
-      "description": "Minecraft Warden thats stuck",
+      "description": "A chilling scene with the Minecraft warden.",
       "status": "Dark",
       "opacity": 0.6,
-      "imageURL": "https://cdn.discordapp.com/attachments/1041088447949062185/1041787355222261870/Screenshot_2022-11-13_201500.png"
+      "imageURL": "https://images.unsplash.com/photo-1560192662-13c098ef02f4"
     },
     {
-      "title": "Purple Sunset",
+      "title": "Twilight Horizon",
       "id": 17,
-      "description": "Purple sunset with a mountain",
+      "description": "The sun sets over a peaceful landscape.",
       "status": "Dark",
       "opacity": 0.65,
-      "imageURL": "https://images4.alphacoders.com/109/1093655.jpg"
+      "imageURL": "https://images.unsplash.com/photo-1531186543207-283c0a420da9"
     },
     {
-      "title": "Night Coffee Shop",
+      "title": "Midnight Cafe",
       "id": 18,
-      "description": "A coffee shop at late night",
+      "description": "A quiet, cozy cafe in the middle of the night.",
       "status": "Dark",
       "opacity": 0.55,
-      "imageURL": "https://preview.redd.it/8vz2k55k8mg81.jpg?auto=webp&s=7d047e67bb4f791810072e1e2547312f8eccf2aa"
+      "imageURL": "https://images.unsplash.com/photo-1571771125850-93ab95a7ccdf"
     },
     {
-      "title": " Cat",
+      "title": "Lunar Eclipse",
       "id": 19,
-      "description": "Just a cat!",
+      "description": "A total lunar eclipse over a mountain range.",
       "status": "Cat",
       "opacity": 0.2,
-      "imageURL": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_grumpy.jpg?quality=70&strip=info&w=960"
+      "imageURL": "https://images.unsplash.com/photo-1571316111142-b8a70fd82462"
     },
     {
-      "title": "One Piece",
+      "title": "Pirate Journey",
       "id": 20,
-      "description": "One piece boat in the ocea!",
+      "description": "A pirate ship navigating through stormy waters.",
       "status": "Mixed",
       "opacity": 0.6,
-      "imageURL": "https://www.wallpaperup.com/uploads/wallpapers/2016/10/08/1023963/f127dc9be0ee3af102da77efe65b09ce-1000.jpg"
+      "imageURL": "https://images.unsplash.com/photo-1590517039510-cbd1f50b022f"
     },
     {
-      "title": "Kurama Vs Susanoo",
+      "title": "Kakashi's Training",
       "id": 21,
-      "description": "Picture from the Naurto series",
-      "status": "Mixed",
-      "opacity": 0.5,
-      "imageURL": "https://images6.alphacoders.com/605/605598.jpg"
-    },
-    {
-      "title": "Sasuke Mangekyou",
-      "id": 22,
-      "description": "Sasuke with a mangekyou sharingan",
+      "description": "Kakashi Hatake in a training scene.",
       "status": "Dark",
       "opacity": 1,
-      "imageURL": "https://images3.alphacoders.com/820/82029.jpg"
+      "imageURL": "https://images.unsplash.com/photo-1567390054-2b3f9ab8fe79"
     },
     {
-      "title": "Kakashi",
-      "id": 23,
-      "description": "Kakashi using chidori",
+      "title": "Shadow Warrior",
+      "id": 22,
+      "description": "A lone warrior in a mysterious dark realm.",
       "status": "Light",
       "opacity": 0.5,
-      "imageURL": "https://images4.alphacoders.com/106/106924.jpg"
+      "imageURL": "https://images.unsplash.com/photo-1530513889196-0b1be4e2e9f1"
     },
     {
-      "title": "Black",
-      "id": 24,
-      "description": "Make delta look more black",
+      "title": "Night Sky",
+      "id": 23,
+      "description": "A starry night sky filled with constellations.",
       "status": "Dark",
       "opacity": 0.5,
-      "imageURL": "https://media.discordapp.net/attachments/1041796845820706836/1061012646687670322/image.png"
+      "imageURL": "https://images.unsplash.com/photo-1530198493107-fc7e0e2ec763"
     },
     {
-      "title": "Featherine",
+      "title": "Mystical Forest",
+      "id": 24,
+      "description": "A dense forest with mist creeping through.",
+      "status": "Dark",
+      "opacity": 0.5,
+      "imageURL": "https://images.unsplash.com/photo-1518465101804-02a1ed6788c0"
+    },
+    {
+      "title": "Eclipse",
       "id": 25,
-      "description": "Submitted by giveaway winner",
+      "description": "A total eclipse with a haunting sky.",
       "status": "Mixed",
       "opacity": 0.5,
-      "imageURL": "https://cdn.discordapp.com/attachments/1043728067182481459/1047887881236119582/unknown.png"
+      "imageURL": "https://images.unsplash.com/photo-1570514904400-92c5c5f28d91"
     },
     {
-      "title": "Super Son Goku",
+      "title": "Dragon Realm",
       "id": 26,
-      "description": "Son Goku From Dragonball",
+      "description": "A dragon in a mystical realm of fire and ice.",
       "status": "Dark",
       "opacity": 0.8,
-      "imageURL": "https://assets.puzzlefactory.pl/puzzle/399/221/original.webp"
+      "imageURL": "https://images.unsplash.com/photo-1524745981805-6f6b07184c34"
     },
     {
-      "title": "Tanjiro Purple/Pink",
-      "id": 26,
-      "description": "A Pink & Purple Demon Slayer Theme",
+      "title": "Demon Slayer",
+      "id": 27,
+      "description": "A dramatic scene from the anime Demon Slayer.",
       "status": "Mixed",
       "opacity": 0.7,
-      "imageURL": "https://img2.wallspic.com/previews/4/7/7/4/6/164774/164774-tanjiro_kamado-demon_slayer_kimetsu_no_yaiba-anime-purple-art-x750.jpg"
+      "imageURL": "https://images.unsplash.com/photo-1609713601685-4c924d3213a6"
     },
-   {
-      "title": "One piece",
-      "id": 27,
-      "description": "One piece theme",
-      "status": "Dark",
-      "opacity": 0.8,
-      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1078561138469503016/1275020.png"
-    },
-     {
-      "title": "Idk",
+    {
+      "title": "Mystic Realm",
       "id": 28,
-      "description": "idk what is it lol",
+      "description": "An enchanted world of magic and mystery.",
       "status": "Dark",
       "opacity": 0.8,
-      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1078475677566771312/527258.png"
-    },
-    
+      "imageURL": "https://images.unsplash.com/photo-1593279290159-54040215daff"
+    }
   ]
 }
