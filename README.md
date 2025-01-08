@@ -1,36 +1,36 @@
 {
   "themes": [
     {
-      "title": "Ocean Breeze",
+      "title": "Dragon",
       "id": 1,
-      "description": "Relaxing ocean breeze with soft waves.",
+      "description": "Dragon.",
       "status": "Trending",
       "opacity": 0.2,
-      "imageURL": "https://images.unsplash.com/photo-1545316126-e66de313b8a4"
+      "imageURL": "https://img.freepik.com/free-photo/mythical-dragon-beast-anime-style_23-2151112832.jpg?semt=ais_hybrid"
     },
     {
-      "title": "City Skyline",
+      "title": "Sasuke",
       "id": 2,
-      "description": "A modern city skyline at sunset.",
+      "description": "Naruto anime.",
       "status": "Trending",
       "opacity": 0.3,
-      "imageURL": "https://images.unsplash.com/photo-1545360737-2d4e2c3ab938"
+      "imageURL": "https://pm1.aminoapps.com/6427/d12e746e7fa3e6de0ca696b008b62bcdf9a73c2c_hq.jpg"
     },
     {
-      "title": "Cosmic Wave",
+      "title": "Idk",
       "id": 3,
-      "description": "Interstellar waves and cosmic colors.",
+      "description": "Anime.",
       "status": "Mixed",
       "opacity": 0.4,
-      "imageURL": "https://images.unsplash.com/photo-1565676534-bd0db3a5ad9b"
+      "imageURL": "https://img.freepik.com/fotos-gratis/bela-cena-de-desenho-animado-de-paisagem-de-anime_23-2151035237.jpg"
     },
     {
-      "title": "Mountain Majesty",
+      "title": "Pokemon",
       "id": 4,
-      "description": "A breathtaking view of mountains and skies.",
+      "description": "Ash and charizard.",
       "status": "Hot",
       "opacity": 0.8,
-      "imageURL": "https://images.unsplash.com/photo-1545171252-02db2e9c191f"
+      "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGpNtq9tU4a0g7-I1tuPFelT468hykuYksP2DjzfeXcTygvZCTRdASP-f4bfB_tfBW8KLF11C1QH3HOO-lku7YjJa5Qh6Y7CcWWWrjf6RFRGavCzC74iem2sFvKt9Ix2XlWRPEkqpYCfc/s640/BVkaL0ZCEAAkbJq.jpg"
     },
     {
       "title": "Fish in the Sea",
