@@ -41,44 +41,44 @@
       "imageURL": "https://tm.ibxk.com.br/2024/03/14/14101432591036.jpg?ims=750x"
     },
     {
-      "title": "JJsploit theme",
+      "title": "Juice",
       "id": 6,
-      "description": "Ever wanted the WRD feeling back on delta?",
-      "status": "Meme",
+      "description": "Juice World",
+      "status": "Hot",
       "opacity": 0.45,
-      "imageURL": "https://cdn.wearedevs.net/images/pages/jjsploit/JJSploit%20v6%20Buttons%20Page.png"
+      "imageURL": "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2020/07/14/juice-wrld-umg.jpg"
     },
     {
-      "title": "Waterfall",
+      "title": "Tokyo",
       "id": 7,
-      "description": "View The WaterFall",
+      "description": "W",
       "status": "Hot",
       "opacity": 0.4,
-      "imageURL": "https://images.pexels.com/photos/2387873/pexels-photo-2387873.jpeg?cs=srgb&dl=pexels-sam-kolder-2387873.jpg&fm=jpg"
+      "imageURL": "https://img.freepik.com/fotos-gratis/vista-aerea-da-paisagem-urbana-de-toquio-com-a-montanha-fuji-no-japao_335224-148.jpg"
     },
     {
-      "title": "Galaxy",
+      "title": "Tokyo",
       "id": 8,
-      "description": "The Galaxy",
+      "description": "Idk",
       "status": "Dark",
       "opacity": 0.4,
-      "imageURL": "https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      "imageURL": "https://media.istockphoto.com/id/1223319664/pt/foto/beautiful-night-scene-of-tokyo-skyline.jpg?s=612x612&w=0&k=20&c=xP4m1kPlWiHH8yGQsvCTAHkSB-9okqOmwolMDVd68nE="
     },
     {
-      "title": "Lightning",
+      "title": "Attack on titan",
       "id": 9,
-      "description": "Lightning Strikes",
-      "status": "Dark",
+      "description": "Anime",
+      "status": "Anime",
       "opacity": 0.4,
-      "imageURL": "https://images.pexels.com/photos/1114690/pexels-photo-1114690.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+      "imageURL": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2021/01/Wall-Titans-in-Attack-on-Titan-header.jpg"
     },
     {
-      "title": "Amogus",
+      "title": "Demon Slayer",
       "id": 10,
-      "description": "i was forced to add this",
-      "status": "Meme",
+      "description": "Demon slayer",
+      "status": "Anime",
       "opacity": 0.5,
-      "imageURL": "https://cdn.discordapp.com/attachments/913411464902107138/1008094540332273746/sussyshit.jpg"
+      "imageURL": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/11/demon-slayer-kimetsu-no-yaiba-2.jpg"
     },
     {
       "title": "littlekiller moment",
