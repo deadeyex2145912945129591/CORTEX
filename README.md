@@ -17,12 +17,12 @@
       "imageURL": "https://blog.olhonocarro.com.br/wp-content/uploads/2024/07/nissan-skyline-gt-r-1992-traseira-1620x1080.jpg"
     },
     {
-      "title": "Cortex Logo",
+      "title": "Rengoku",
       "id": 3,
-      "description": "Logo",
+      "description": "Demon slayer",
       "status": "Hot",
       "opacity": 0.4,
-      "imageURL": "https://media.discordapp.net/attachments/1323348107689328743/1324434970768445461/d394449641c9c6c82ee3a299dae3865d-removebg-preview.png?ex=677823af&is=6776d22f&hm=b0568bca0f7cdc1569fcc00449f27faeb02fed171922c10717214fe406f6db55&=&format=webp&quality=lossless"
+      "imageURL": "https://images8.alphacoders.com/115/thumb-1920-1150496.jpg"
     },
     {
       "title": "Pokemon",
@@ -81,157 +81,208 @@
       "imageURL": "https://static1.srcdn.com/wordpress/wp-content/uploads/2023/11/demon-slayer-kimetsu-no-yaiba-2.jpg"
     },
     {
-      "title": "littlekiller moment",
+      "title": "Dark Forest",
       "id": 11,
-      "description": "deez nuts",
-      "status": "Meme",
+      "description": "Dark Forest",
+      "status": "Dark",
       "opacity": 0.5,
-      "imageURL": "https://cdn.discordapp.com/attachments/913411464902107138/1008095336801255575/unknown.png"
+      "imageURL": "https://miro.medium.com/v2/da:true/resize:fill:1200:900/g:fp:0.51:0.5/0*C__knszvhJ6NCa11"
     },
     {
-      "title": "Animated Joke",
+      "title": "Windows XP",
       "id": 12,
-      "description": "Submitted by giveaway winner",
-      "status": "Light",
+      "description": "Windows XP",
+      "status": "Old",
       "opacity": 0.4,
-      "imageURL": "https://cdn.discordapp.com/attachments/1008431839955918950/1008433695683792966/E_IXW1wWUAEGHP4.jpg_small.jpg"
+      "imageURL": "https://s2-g1.glbimg.com/DmpUU0SgMjz2PTyqqSlqi7JnP_Q=/0x0:1920x1200/1008x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2021/Y/l/ycmRwKTDuAeqIuACgvAA/xpwallpaper.jpg"
     },
     {
-      "title": "Aincrad online sao",
+      "title": "Vapor wave",
       "id": 13,
-      "description": "Submitted by giveaway winner",
+      "description": "Vapor wave",
       "status": "Mixed",
       "opacity": 0.6,
-      "imageURL": "https://cdn.discordapp.com/attachments/967417560645640242/1008436103365263480/IMG_0499.webp"
+      "imageURL": "https://img.freepik.com/fotos-premium/ilustracao-de-synthwave-de-fundo-retro-vaporwave_739548-2440.jpg"
     },
     {
-      "title": "Blue liquid",
+      "title": "Miles morales",
       "id": 14,
-      "description": "Blue dipping lmao",
+      "description": "Spiderman",
       "status": "Hot",
       "opacity": 0.3,
-      "imageURL": "https://cdn.discordapp.com/attachments/1000376890659438602/1008479553800384593/untitled.png"
+      "imageURL": "https://steamuserimages-a.akamaihd.net/ugc/1787342533200112419/18D65BF99E1D59E34F4ACC54E7A3B54726EDB30B/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
     },
         {
-      "title": "MLG - Major Gaming League",
+      "title": "Skull",
       "id": 15,
-      "description": "memes from the mid-2010s",
-      "status": "Light",
+      "description": "Skull",
+      "status": "Dark",
       "opacity": 0.2,
-      "imageURL": "https://media-management-service.s3.amazonaws.com/media/images/1a437a450812ecdb0c113e853c9b7b84_longread_large.original.png"
+      "imageURL": "https://static.wikia.nocookie.net/welcometothegame/images/e/e3/Wttg1skull.png/revision/latest?cb=20201112140908"
     },
     {
-      "title": "Warden that is stuck",
+      "title": "Hallowen",
       "id": 16,
-      "description": "Minecraft Warden thats stuck",
+      "description": "Hallowen",
       "status": "Dark",
       "opacity": 0.6,
-      "imageURL": "https://cdn.discordapp.com/attachments/1041088447949062185/1041787355222261870/Screenshot_2022-11-13_201500.png"
+      "imageURL": "https://sm.ign.com/t/ign_br/news/h/halloween-/halloween-sequels-to-start-filming-in-september_z1ks.280.jpg"
     },
     {
-      "title": "Purple Sunset",
+      "title": "Lofi",
       "id": 17,
-      "description": "Purple sunset with a mountain",
+      "description": "Lofi",
       "status": "Dark",
       "opacity": 0.65,
-      "imageURL": "https://images4.alphacoders.com/109/1093655.jpg"
+      "imageURL": "https://static.vecteezy.com/system/resources/previews/030/661/779/non_2x/a-sunset-lofi-scene-high-quality-free-photo.jpg"
     },
     {
-      "title": "Night Coffee Shop",
+      "title": "Lofi 2",
       "id": 18,
-      "description": "A coffee shop at late night",
+      "description": "Another lofi theme lol",
       "status": "Dark",
       "opacity": 0.55,
-      "imageURL": "https://preview.redd.it/8vz2k55k8mg81.jpg?auto=webp&s=7d047e67bb4f791810072e1e2547312f8eccf2aa"
+      "imageURL": "https://static.vecteezy.com/system/resources/thumbnails/027/749/839/small_2x/lofi-image-for-background-generative-ai-photo.jpg"
     },
     {
-      "title": " Cat",
+      "title": "Sasuke",
       "id": 19,
-      "description": "Just a cat!",
-      "status": "Cat",
+      "description": "Sasuke!",
+      "status": "Anime",
       "opacity": 0.2,
-      "imageURL": "https://classic.exame.com/wp-content/uploads/2016/09/size_960_16_9_grumpy.jpg?quality=70&strip=info&w=960"
+      "imageURL": "https://pm1.aminoapps.com/6427/d12e746e7fa3e6de0ca696b008b62bcdf9a73c2c_hq.jpg"
     },
     {
       "title": "One Piece",
       "id": 20,
-      "description": "One piece boat in the ocea!",
+      "description": "One piece boat",
       "status": "Mixed",
       "opacity": 0.6,
-      "imageURL": "https://www.wallpaperup.com/uploads/wallpapers/2016/10/08/1023963/f127dc9be0ee3af102da77efe65b09ce-1000.jpg"
+      "imageURL": "https://i.pinimg.com/736x/ab/2f/dd/ab2fdd98f1fb9e308058b6b92924b132.jpg"
     },
     {
-      "title": "Kurama Vs Susanoo",
+      "title": "Space",
       "id": 21,
-      "description": "Picture from the Naurto series",
+      "description": "Exploration",
       "status": "Mixed",
       "opacity": 0.5,
-      "imageURL": "https://images6.alphacoders.com/605/605598.jpg"
+      "imageURL": "https://media.licdn.com/dms/image/v2/D4D12AQGn__JnMTzsLw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1698663926418?e=2147483647&v=beta&t=SJZ-vBIWL_3G4Zc7bYScVJvwqW7D6qfVFxKIFHi3gHI"
     },
     {
-      "title": "Sasuke Mangekyou",
+      "title": "Spider",
       "id": 22,
-      "description": "Sasuke with a mangekyou sharingan",
+      "description": "Spiderman",
       "status": "Dark",
       "opacity": 1,
-      "imageURL": "https://images3.alphacoders.com/820/82029.jpg"
+      "imageURL": "https://wallpapers.com/images/featured/spiderman-p4ashmgeamn2mvkn.jpg"
     },
     {
-      "title": "Kakashi",
+      "title": "Venom",
       "id": 23,
-      "description": "Kakashi using chidori",
+      "description": "Venom",
       "status": "Light",
       "opacity": 0.5,
-      "imageURL": "https://images4.alphacoders.com/106/106924.jpg"
+      "imageURL": "https://scc10.com.br/wp-content/uploads/2021/09/O-Confronto-tao-esperado-de-Venom-vs-Homem-Aranha-acontecera-no-MCU.jpg.webp"
     },
     {
-      "title": "Black",
+      "title": "Wild West",
       "id": 24,
-      "description": "Make delta look more black",
+      "description": "Wild West",
       "status": "Dark",
       "opacity": 0.5,
-      "imageURL": "https://media.discordapp.net/attachments/1041796845820706836/1061012646687670322/image.png"
+      "imageURL": "https://image.api.playstation.com/vulcan/ap/rnd/202407/0408/615e46b599fbcd17282a576399c677ff9c2a19341e21f02b.jpg"
     },
     {
-      "title": "Featherine",
+      "title": "Wild west 2",
       "id": 25,
-      "description": "Submitted by giveaway winner",
+      "description": "2",
       "status": "Mixed",
       "opacity": 0.5,
-      "imageURL": "https://cdn.discordapp.com/attachments/1043728067182481459/1047887881236119582/unknown.png"
+      "imageURL": "https://static.vecteezy.com/system/resources/thumbnails/007/482/498/small_2x/wild-west-cowboy-background-free-vector.jpg"
     },
     {
-      "title": "Super Son Goku",
+      "title": "Gogeta",
       "id": 26,
-      "description": "Son Goku From Dragonball",
+      "description": "Goku + vegeta",
       "status": "Dark",
       "opacity": 0.8,
-      "imageURL": "https://assets.puzzlefactory.pl/puzzle/399/221/original.webp"
+      "imageURL": "https://criticalhits.com.br/wp-content/uploads/2019/04/vegeto-gogeta-01.jpg"
     },
     {
-      "title": "Tanjiro Purple/Pink",
+      "title": "Tanjiro",
       "id": 26,
-      "description": "A Pink & Purple Demon Slayer Theme",
+      "description": "Tanjiro",
       "status": "Mixed",
       "opacity": 0.7,
-      "imageURL": "https://img2.wallspic.com/previews/4/7/7/4/6/164774/164774-tanjiro_kamado-demon_slayer_kimetsu_no_yaiba-anime-purple-art-x750.jpg"
+      "imageURL": "https://criticalhits.com.br/wp-content/uploads/2023/09/tanjiro-kamado-demon-slayer.jpg"
     },
    {
-      "title": "One piece",
+      "title": "Neymar",
       "id": 27,
-      "description": "One piece theme",
+      "description": "Football player",
       "status": "Dark",
       "opacity": 0.8,
-      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1078561138469503016/1275020.png"
+      "imageURL": "https://assets.goal.com/images/v3/blt1ef9300391c48a5b/GettyImages-1243553711.jpg?auto=webp&format=pjpg&width=3840&quality=60"
     },
      {
-      "title": "Neymar",
+      "title": "Anime",
       "id": 28,
-      "description": "Neymar gif",
-      "status": "Dark",
+      "description": "Anime",
+      "status": "Anime",
       "opacity": 0.8,
-      "imageURL": "https://media.tenor.com/hTT5goLU1_MAAAAM/neymar-neymar-jr.gif"
+      "imageURL": "https://nerdizmo.ig.com.br/wp-content/uploads/2024/05/Lista-de-animes-recomendacoes-1-semestre-de-2024.jpg"
     },
-    
+     {
+      "title": "Round 6",
+      "id": 29,
+      "description": "Squid game",
+      "status": "Game",
+      "opacity": 0.8,
+      "imageURL": "https://www.cinemacego.com/wp-content/uploads/2021/10/PSICOLOGIA-DAS-CORES-EM-SQUID-GAME-Website-scaled.jpg"
+    },
+  {
+      "title": "Pink city",
+      "id": 30,
+      "description": "Rose GIF",
+      "status": "City",
+      "opacity": 0.8,
+      "imageURL": "https://c.tenor.com/epaiIH6oEFMAAAAC/pink-city-pop-pink.gif"
+    },
+
+  {
+      "title": "Samurai",
+      "id": 31,
+      "description": "Samurai",
+      "status": "Idk",
+      "opacity": 0.8,
+      "imageURL": "https://c4.wallpaperflare.com/wallpaper/288/472/57/the-sun-minimalism-japan-sword-warrior-hd-wallpaper-preview.jpg"
+    },
+  {
+      "title": "Chill",
+      "id": 32,
+      "description": "Chill",
+      "status": "Idk",
+      "opacity": 0.8,
+      "imageURL": "https://media3.giphy.com/media/26gs7byN2JOXsBiuY/source.gif"
+    },
+  {
+      "title": "Mega Charizard",
+      "id": 33,
+      "description": "Anime",
+      "status": "Pokemon",
+      "opacity": 0.8,
+      "imageURL": "https://i.pinimg.com/originals/f3/b1/7e/f3b17e497452fdb76d4a77eaad614172.gif"
+    },
+
+  {
+      "title": "Naruto",
+      "id": 34,
+      "description": "Anime",
+      "status": "Naruto",
+      "opacity": 0.8,
+      "imageURL": "https://i.pinimg.com/originals/9a/1f/11/9a1f11839c9f9e902f09e8259805319a.gif"
+    },
+
+
   ]
 }
