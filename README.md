@@ -225,12 +225,12 @@
       "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1078561138469503016/1275020.png"
     },
      {
-      "title": "Idk",
+      "title": "Neymar",
       "id": 28,
-      "description": "idk what is it lol",
+      "description": "Neymar gif",
       "status": "Dark",
       "opacity": 0.8,
-      "imageURL": "https://media.discordapp.net/attachments/1077982659021639721/1078475677566771312/527258.png"
+      "imageURL": "https://media.tenor.com/hTT5goLU1_MAAAAM/neymar-neymar-jr.gif"
     },
     
   ]
